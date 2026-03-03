@@ -1,0 +1,25 @@
+body { 
+    margin: 0; 
+} 
+
+.azul { 
+    background-color: #5D9CDE; 
+    height: 80px; 
+    border-bottom: 3px solid black; }
+
+.rojo { 
+    background-color: #F05F57; 
+    height: 40px; 
+    border-bottom: 4px solid black; }
+
+.morado { 
+    background-color: #9B7CC3; 
+    height: 350px; 
+    border-bottom: 2px solid black; }
+
+.naranja { 
+    background-color: #FFAD4F; 
+    height: 80px; 
+    border: 1px solid black;
+}
+    

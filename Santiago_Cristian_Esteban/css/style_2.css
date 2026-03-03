@@ -1,0 +1,44 @@
+* {
+
+    box-sizing: border-box; 
+}
+
+body { 
+    margin: 0; 
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+
+.azul { 
+    background-color: #5D9CDE; 
+    height: 80px; 
+    border: 2px solid black; 
+}
+
+
+.rojo { 
+    background-color: #F05F57; 
+    height: 350px; 
+    border: 2px solid black; 
+    width: 33.33%;
+}
+
+
+.morado { 
+    background-color: #9B7CC3; 
+    height: 350px; 
+    border: 2px solid black; 
+    width: 33.33%;
+}
+
+
+.naranja { 
+    background-color: #FFAD4F; 
+    height: 80px; 
+    border: 2px solid black; 
+}
