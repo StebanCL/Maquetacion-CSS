@@ -1,0 +1,78 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.negro{
+    width: 100%;
+    height: 70px;    
+    background: #000000;
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 700px;
+    background: rgb(104, 104, 107);
+}
+
+.azul{
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 100%;
+    background: blue;
+    border: 0.5px solid;
+}
+
+.morado{
+    width: 100%;
+    background: rgb(68, 3, 110);
+    height: 40%;
+    border: 0.5px solid;
+}
+
+.contenedor-dos{
+    width: 100%;
+    height: 100%;
+}
+
+.contenedor-rojo{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 60%;
+    background: #8d1616;
+}
+
+.rojo-1{
+    width: 50%;
+    height: 99.5%;
+    background: rgb(104, 30, 30);
+    border: 0.5px solid;
+}
+
+.rojo-2{
+    width: 50%;
+    height: 99.5%;
+    background: rgb(104, 30, 30);
+    border: 0.5px solid;
+}
+
+.amarillo{
+    width: 100%;
+    height: 120px;
+    background: #f7c111;
+}
+
+.menu{
+    margin: 0.5px;
+    height: 50px;
+    width: 100%;
+    font-size: 1.3em;
+    text-align: center;
+    background: green;
+}
+
